@@ -7,3 +7,9 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
+/.apt_generated/
+.settings/
+.classpath
+.factorypath
+.project
+.DS_Store
